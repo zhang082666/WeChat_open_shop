@@ -41,7 +41,3 @@
 * 输入你的AppID；
 * 填写你的项目名称；
 * 进入之后修改config文件夹里的api.js文件，把NewApiRootUrl改为你后台接口地址即刻运行。
-
-# 小程序演示效果
-![](http://pgf1db9j6.bkt.clouddn.com/6.jpg "前段演示")
-
